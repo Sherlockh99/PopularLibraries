@@ -19,3 +19,5 @@ local.properties
 /.idea/gradle.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/app/src/androidTest/java/ua/sherlock/gb/popularLibraries/ExampleInstrumentedTest.kt
+/app/src/test/java/ua/sherlock/gb/popularLibraries/ExampleUnitTest.kt
